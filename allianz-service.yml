@@ -1,0 +1,7 @@
+server: 
+  port: 8890
+  data: 
+    rest: 
+      basePath: /api
+mensaje-service: Estamos en un curso service
+      
