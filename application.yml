@@ -1,5 +1,4 @@
 mensaje: estamos en un curso general
-guitarra: TLAN, TLAN EN CLOUD
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
