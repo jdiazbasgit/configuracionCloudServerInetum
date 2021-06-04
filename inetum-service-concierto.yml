@@ -1,6 +1,6 @@
 server: 
   port: 8891
-allianz:
+inetum:
   concierto:
     sonido:
       guitarra: tlan, tlan, tlan en yml
